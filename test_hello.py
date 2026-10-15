@@ -3,4 +3,4 @@ def test_hello():
     assert result == "Hello, GitHub! TWO"
 
 def test_addition():
-    assert 1 + 1 == 9
+    assert 1 + 1 == 2
